@@ -1,0 +1,2 @@
+wait ("0.2")
+loadstring(game:httpGet("https://raw.githubusercontent.com/MacReal9/FTAP/main/FTAP/Ftap"))()
